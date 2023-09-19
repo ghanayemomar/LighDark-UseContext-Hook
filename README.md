@@ -1,6 +1,6 @@
 # Light/Dark Mode Switcher using useContext
 
-This is a simple React application that demonstrates how to implement a light/dark mode switcher using the `useContext` hook. The application allows users to toggle between light and dark styles, providing a visually pleasing user experience.
+This is a simple React application that demonstrates how to implement a light/dark mode switcher using the `useContext` hook. The application allows users to toggle between light and dark styles.
 
 ## Features
 
